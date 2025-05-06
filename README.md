@@ -1,0 +1,1 @@
+# nezuko-qr-manager
