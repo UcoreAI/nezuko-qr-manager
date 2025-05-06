@@ -1,0 +1,17 @@
+{
+  "name": "nezuko-qr-manager",
+  "version": "1.0.0",
+  "description": "Displays QR code string from Nezuko bot as an image.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "qrcode": "^1.5.3"
+  },
+  "engines": {
+    "node": ">=16.0.0" 
+  }
+}
